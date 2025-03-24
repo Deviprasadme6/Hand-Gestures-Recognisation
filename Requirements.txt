@@ -1,0 +1,28 @@
+Here are the requirements for the Hand Gesture Recognition project:
+
+Hardware Requirements:
+- Camera: A webcam or a camera module (e.g., Raspberry Pi Camera) to capture video feed.
+- Computer: A computer or a single-board computer (e.g., Raspberry Pi) with a compatible operating system.
+
+Software Requirements:
+- Operating System: Windows, macOS, or Linux (e.g., Ubuntu, Raspberry Pi OS).
+- Python: Python 3.7 or later.
+- OpenCV: OpenCV 4.5 or later.
+- MediaPipe: MediaPipe 0.8 or later.
+
+Library Dependencies
+- mediapipe: For hand detection and tracking.
+- opencv-python: For image and video processing.
+
+Installation
+
+To install the required libraries, run the following command:
+
+bash
+pip install -r requirements.txt
+
+
+Here's a sample requirements.txt file:
+mediapipe
+opencv-python
+numpy

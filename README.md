@@ -9,7 +9,7 @@ Features
 - User-Friendly Interface: Displays recognized gestures on the screen for easy interaction.
 
 Installation
-1. Clone the repository: git clone https://github.com/your-username/your-repo-name.git
+1. Clone the repository: git clone (https://github.com/Deviprasadme6/Hand-Gestures-Recognisation.git)
 2. Install required libraries: pip install -r requirements.txt
 3. Run the application: python main.py
 

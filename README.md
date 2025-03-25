@@ -13,6 +13,9 @@ Installation
 2. Install required libraries: pip install -r requirements.txt
 3. Run the application: python main.py
 
+Run
+streamlit run main_file.py
+
 Usage
 1. Run the application and show your hand to the camera.
 2. Perform a hand gesture to interact with the computer.
